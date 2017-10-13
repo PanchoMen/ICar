@@ -6,6 +6,7 @@ class Coche
 {
 public:
     Coche();
+    ~Coche()
 };
 
 #endif // COCHE_H
